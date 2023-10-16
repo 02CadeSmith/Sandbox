@@ -5,3 +5,4 @@
 print("Hello Cade Smith!")
 print("\nI am looking forward to Christmas!")
 print("I am also looking forward to Halloween.")
+print("It is a Monday")
